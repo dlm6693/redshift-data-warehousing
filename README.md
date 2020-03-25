@@ -14,7 +14,7 @@
 ![staging_schema](staging_sechema.PNG)
 * However, the final tables required many more constraints and to be organized in a more normalized (albeit not 3NF) fashion, which you can see below:
 
-![schema][schema.png]
+![schema](schema.png)
 * Writing the CREATE queries for all of these was pretty straightforward, but knowing when and when not to put constraints on the final schema was essential
 
 ## Part 2 - Extracting and Loading the Data into Staging
