@@ -11,7 +11,7 @@
 * The first stage in this project was to create each table and thereby establish the schema for the both the staging and final tables
 * The staging tables did not have any constraints or relationships put on it so as to pull in all of the data first. Below is the schema:
 
-![staging_schema](staging_sechema.PNG)
+![staging_schema](staging_schema.PNG)
 * However, the final tables required many more constraints and to be organized in a more normalized (albeit not 3NF) fashion, which you can see below:
 
 ![schema](schema.png)
